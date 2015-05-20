@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1399407196 source:e:\ds progs\wsn\cluster.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	<cstdlib>
+	<math.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
